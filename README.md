@@ -8,4 +8,4 @@ Learning git and github basics through hands-on practice.
 -Merging
 <br>
 ##Author
-Kirti sanas
+Kirti ajit sanas
